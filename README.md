@@ -14,14 +14,11 @@ Built using **Flutter**, **Dart**, and **BLoC/Cubit architecture**, it provides 
 ## 🚀 Features
 
 - 📝 **Create, Read, Update, and Delete** notes with ease  
-- 🔍 **Search functionality** to quickly find notes by title or content  
 - 🎨 **Color-coded notes** to organize and categorize your thoughts  
-- 📌 **Pin important notes** to keep them at the top  
 - 💾 **Auto-save functionality** to prevent data loss  
 - ⚡ **State management using BLoC/Cubit** for scalability and maintainability  
 - 📱 **Fully responsive UI** that works seamlessly on all screen sizes  
-- 🌙 **Dark mode support** for comfortable note-taking anytime  
-- ⏱️ **Timestamps** for each note creation and last edit  
+ 
 
 ---
 
